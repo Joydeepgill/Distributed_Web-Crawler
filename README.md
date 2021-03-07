@@ -3,7 +3,7 @@ This repo will contain the contents of my distributed web crawler project (such 
 
 
 ### What is a Web Crawler? 
-⋅⋅* indexes websites and extracts various types of 
+* Indexes websites and extracts various types of 
 data (ex: images, links, and so forth). 
 
 ### What is meant by "distributed"? 
